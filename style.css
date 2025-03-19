@@ -1,0 +1,31 @@
+
+html, body {
+    min-height: 100%;
+  }
+
+  /* Background */
+body {
+    font-family: sans-serif;
+    background: #42426b;
+    background-image: linear-gradient(-45deg, #8067B7, #EC87C0);
+    color: rgba(255,255,255,.5);
+}
+
+  /* Font size */
+p {
+    font-size: .9em;
+  }
+
+  /* Radio Button*/
+.radio-button {
+    padding: 16px 0;
+    text-align: center;
+    background: rgba(255,255,255,.03);
+    border-radius: .3em;
+}
+
+.rb-tab {
+    display: inline-block;
+    position: relative;
+    width: 10%;
+  }
